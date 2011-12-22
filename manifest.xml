@@ -4,5 +4,5 @@
 	<repo name="test_a" path="."/>
 	<repo name="test_b" path="b"/>
 	<repo name="test_c" path="c" revision="4b6434d049b501a3f6155bda7fe278b072cdd6f9"/>
-	<repo name="test_d" path="d" vcs="gitri"/>
+	<repo name="test_d" path="d" vcs="rug"/>
 </manifest>
