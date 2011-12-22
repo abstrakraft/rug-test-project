@@ -1,8 +1,8 @@
 <?xml version="1.0" ?><manifest>
 	<default remote="github"/>
 	<remote fetch="https://github.com/abstrakraft" name="github"/>
-	<repo name="The-Rug-Test-Project-A.git" path="."/>
-	<repo name="The-Rug-Test-Project-B.git" path="b"/>
-	<repo name="The-Rug-Test-Project-C.git" path="c" revision="4b6434d049b501a3f6155bda7fe278b072cdd6f9"/>
-	<repo name="The-Rug-Test-Project-D.git" path="d" vcs="rug"/>
+	<repo name="rug-test-project-a.git" path="."/>
+	<repo name="rug-test-project-b.git" path="b"/>
+	<repo name="rug-test-project-c.git" path="c" revision="4b6434d049b501a3f6155bda7fe278b072cdd6f9"/>
+	<repo name="rug-test-project-d.git" path="d" vcs="rug"/>
 </manifest>
