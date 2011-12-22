@@ -1,6 +1,6 @@
 <?xml version="1.0" ?><manifest>
 	<default remote="github"/>
-	<remote fetch="git@github.com:abstrakraft" name="github"/>
+	<remote fetch="https://abstrakraft@github.com/abstrakraft" name="github"/>
 	<repo name="The-Rug-Test-Project-A.git" path="."/>
 	<repo name="The-Rug-Test-Project-B.git" path="b"/>
 	<repo name="The-Rug-Test-Project-C.git" path="c" revision="4b6434d049b501a3f6155bda7fe278b072cdd6f9"/>
