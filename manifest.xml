@@ -5,5 +5,5 @@
 	<repo name="rug-test-project-c.git" path="c" revision="a4310db52c8071769fe64d6993edd708f83c0e66"/>
 	<repo name="rug-test-project-b.git" path="b" revision="dev"/>
 	<repo name="rug-test-project-d.git" path="d" revision="dev" vcs="rug"/>
-	<repo name="rug-test-project-a.git" path="." revision="dev"/>
+	<repo name="rug-test-project-a.git" path="." revision="feature"/>
 </manifest>
